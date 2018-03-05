@@ -65,7 +65,7 @@ def choise4():
 def choise5():
     print("Скрипт создает простой сервер для расшаривания каталога.Чтобы зайти в расшареный каталог нужно набрать в строке обозревателя http://ip адрес компа:8888")
     print("В конкретном случае "+"http://"+get_ip()+":8888")
-    print("Для установки в систему скопировать в cp sharepy.py  /usr/bin/sharepy.py && chmod +x /usr/bin/sharepy.py")
+    print("Для установки в систему скопировать в cp sharepyfolders.py  /usr/bin/sharepyfolders.py && chmod +x /usr/bin/sharepyfolders.py")
     return print()
 
 
